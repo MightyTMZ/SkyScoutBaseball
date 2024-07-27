@@ -1,0 +1,21 @@
+detection model --> TensorFlow (since it can operate as TensorFlow.js and offline)
+{
+    every defensive player, 
+    every possible offensive player (e.g. r1, r2, r3, batter),  
+    the ball, 
+    field zones (e.g. outfield, infield, pitcher's mound, base paths), 
+    actions and events (base hit, walk, stolen base, pick off, etc), 
+    game context (e.g. balls and strikes, score, outs, base occupancy), 
+    game constraints (e.g. outfield boundaries, fair/foul balls)
+}
+
+for the batter, you must have player profiles to keep track of the practice/simulation
+
+** generative AI to consolidate the data and provide feedback to the player
+
+MVP steps:
+
+- collect drone footage of baseball field
+- 
+
+** disclaimer: SkyScout Baseball does not focus on the techniquee of a player (e.g. running, throwing, catching, batting), it simply analyzes the positioning of a defensive team
